@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7294],{6468:e=>{e.exports=JSON.parse('{"label":"Multicluster","permalink":"/blog/tags/multicluster","allTagsPath":"/blog/tags","count":1}')}}]);

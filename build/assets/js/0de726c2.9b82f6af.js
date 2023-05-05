@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2734],{5939:e=>{e.exports=JSON.parse('{"label":"Topology","permalink":"/blog/tags/topology","allTagsPath":"/blog/tags","count":1}')}}]);
